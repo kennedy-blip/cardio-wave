@@ -1,0 +1,12 @@
+{
+  "appId": "com.cardiowave.hemodynamics",
+  "appName": "CARDIO-WAVE",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "minWebViewVersion": 60
+  }
+}
