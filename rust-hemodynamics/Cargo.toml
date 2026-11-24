@@ -1,0 +1,11 @@
+[package]
+name = "rust_hemodynamics"
+version = "1.20.0"
+edition = "2021"
+description = "CARDIO-WAVE hemodynamics DSP: PCG Shannon envelope, SCG fiducials, Moens-Korteweg PWV"
+license = "MIT"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
